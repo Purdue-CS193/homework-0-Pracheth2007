@@ -1,21 +1,5 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-    header { margin-bottom: 1rem; }
-    h1 { font-size: 2rem; margin: 0 0 0.5rem 0; }
-    ul { margin-top: 0.5rem; }
-  </style>
-</head>
-  <style>
-    body {
-      margin: 3rem;
-      padding: 1rem;
-      line-height: 1.6;
-      color: #111;
-    }
-
 <body>
   <header>
     <h1>Pracheth Gullapalli's First CS193 Homework</h1>
